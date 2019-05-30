@@ -1,5 +1,5 @@
 from django.conf import settings
 
-FALLBACK_VIEW_PATH = getattr(settings, "FALLBACK_VIEW", None)
+FALLBACK_VIEW = getattr(settings, "FALLBACK_VIEW", None)
 
 
