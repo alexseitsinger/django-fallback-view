@@ -29,6 +29,7 @@ setup(
         "Operating System :: OS Independent",
         "License :: OSI Approved :: BSD License",
         "Topic :: Internet :: WWW/HTTP :: WSGI :: Middleware",
+        "Programming Language :: Python :: 2",
         "Programming Language :: Python :: 3",
     ]
 )
