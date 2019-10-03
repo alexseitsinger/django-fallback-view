@@ -17,4 +17,3 @@ class FallbackViewMiddleware(object):
             except ImportError:
                 pass
         return self.get_response(request)
-
